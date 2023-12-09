@@ -1,10 +1,10 @@
 package Assignment3;
 
 	/*
-	 * Student Name: Stanley Pieda (professor)
-	 * Lab Professor: Stanley Pieda (professor)
+	 * Student Name: Seerat Kaur
+	 * Lab Professor: Rupinder Kaur (professor)
 	 * Due Date: The due date
-	 * Description: Sample solution for Assignment 03 (21S)
+	 * Description: Solution for Assignment 03 (21S)
 	 */
 
 	/*
